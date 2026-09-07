@@ -1,0 +1,11 @@
+/target
+.DS_Store
+/.idea
+OneLauncher.iml
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.template
+/OneClient-Setup.exe
+
+/packages/oneclient_app/icons/generated/
